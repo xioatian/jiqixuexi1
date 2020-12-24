@@ -1,2 +1,1 @@
-# jiqixuexi1
-jiqixuexi1
+机器学习实验，小天著作
